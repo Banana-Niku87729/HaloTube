@@ -1,1 +1,1 @@
-# HaloTube-YouTube-Alternative-Frontend
+# HaloTube - YouTube Alternative Frontend
